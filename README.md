@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ## Hi there, I'm Marlon :wave:
 
 ### About me
-I am an Investment Analyst working in the NY metro area. My background is in Mathematics (I received my Ph.D. from Stony Brook University in 2020), specifically Differential Geometry. My work employs methods of Statistics, Information Geometry, and Machine Learning to the study of financial time series, primarily using Python and the Wolfram Language/Mathematica. I enjoy coding as a hobby.
+I am an Investment Analyst working in the NY metro area. My background is in Mathematics (I received my Ph.D. from Stony Brook University in 2020), specifically Differential Geometry. My works employs methods of Statistics, Information Geometry, and Machine Learning to the study of financial time series, primarily using Python and the Wolfram Language/Mathematica. I enjoy coding as a hobby.
 
 - :books: I’m currently learning about
     - C++
@@ -63,7 +63,7 @@ I employ the following Libraries and Frameworks often.
 
 #### Web Development
 <p align="center">
-    <img src="images/flask.png" alt="Flask" height="40" style="vertical-align:top; margin:4px">
+    <img src="images/flask-logo.png" alt="Flask" height="40" style="vertical-align:top; margin:4px">
 </p>
 
 ### :hammer_and_wrench: Tools
@@ -97,6 +97,9 @@ I use the following suite of tools
     <a href="https://github-readme-stats-git-master-marlon-gomes.vercel.app/api/top-langs/?username=marlon-gomes&count_private=true&layout=compact&langs_count=10&theme=radical&hide_border=true" target = "_blank" title ="Most used languages">
         <img align="center" src="https://github-readme-stats-git-master-marlon-gomes.vercel.app/api/top-langs/?username=marlon-gomes&count_private=true&layout=compact&langs_count=10&theme=radical&hide_border=true" width="350" height="195">
     </a>
+</p>
+
+<p>
     <a href="https://github-readme-stats-git-master-marlon-gomes.vercel.app/api?username=marlon-gomes&theme=radical&include_all_commits=true&count_private=true&custom_title=Activity%20Stats&show_icons=true&hide_border=true" target = "_blank" title = "GitHub Stats">
             <img align="center" src="https://github-readme-stats-git-master-marlon-gomes.vercel.app/api?username=marlon-gomes&theme=radical&include_all_commits=true&count_private=true&custom_title=Activity%20Stats&show_icons=true&hide_border=true" width="495" height = "190">
     </a>
