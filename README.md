@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ## Hi there, I'm Marlon :wave:
 
 ### About me
-I am an Investment Analyst working in the NY metro area. My background is in Mathematics (I received my Ph.D. from Stony Brook University in 2020), specifically Differential Geometry. My works employs methods of Statistics, Information Geometry, and Machine Learning to the study of financial time series, primarily using Python and the Wolfram Language/Mathematica. I enjoy coding as a hobby.
+I am an Investment Analyst working in the NY metro area. My background is in Mathematics (I received my Ph.D. from Stony Brook University in 2020), specifically Differential Geometry. My work employs methods of Statistics, Information Geometry, and Machine Learning to the study of financial time series, primarily using Python and the Wolfram Language/Mathematica. I enjoy coding as a hobby.
 
 - :books: I’m currently learning about
     - C++
