@@ -96,17 +96,14 @@ I use the following suite of tools
 
 
 ### :trophy: My Github Stats
-<p>
+<div>
     <a href="https://github-readme-stats-git-master-marlon-gomes.vercel.app/api/top-langs/?username=marlon-gomes&count_private=true&layout=compact&langs_count=10&theme=radical&hide_border=true" target = "_blank" title ="Most used languages">
-        <img align="center" src="https://github-readme-stats-git-master-marlon-gomes.vercel.app/api/top-langs/?username=marlon-gomes&count_private=true&layout=compact&langs_count=10&theme=radical&hide_border=true" width="350" height="195">
+        <img align="center" src="https://github-readme-stats-git-master-marlon-gomes.vercel.app/api/top-langs/?username=marlon-gomes&count_private=true&layout=compact&langs_count=10&theme=radical&hide_border=true" width="39%" height="195">
     </a>
-</p>
-
-<p>
     <a href="https://github-readme-stats-git-master-marlon-gomes.vercel.app/api?username=marlon-gomes&theme=radical&include_all_commits=true&count_private=true&custom_title=Activity%20Stats&show_icons=true&hide_border=true" target = "_blank" title = "GitHub Stats">
-            <img align="center" src="https://github-readme-stats-git-master-marlon-gomes.vercel.app/api?username=marlon-gomes&theme=radical&include_all_commits=true&count_private=true&custom_title=Activity%20Stats&show_icons=true&hide_border=true" width="495" height = "190">
+        <img align="center" src="https://github-readme-stats-git-master-marlon-gomes.vercel.app/api?username=marlon-gomes&theme=radical&include_all_commits=true&count_private=true&custom_title=Activity%20Stats&show_icons=true&hide_border=true" width="60%" height = "195">
     </a>
-</p>
+</div>
 
 ### 📫 How to reach me:
 <p align = "center">
