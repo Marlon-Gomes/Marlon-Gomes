@@ -1,0 +1,23 @@
+{
+  "name": "marlon-gomes",
+  "version": "0.1.0",
+  "description": "A profile page.",
+  "homepage": "https://github.com/Marlon-Gomes/Marlon-Gomes#readme",
+  "bugs": {
+    "url": "https://github.com/Marlon-Gomes/Marlon-Gomes/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marlon-Gomes/Marlon-Gomes.git"
+  },
+  "license": "MIT",
+  "author": "Marlon de Oliveira Gomes",
+  "type": "module",
+  "main": "github-colors.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "js-yaml": "^4.1.0"
+  }
+}
